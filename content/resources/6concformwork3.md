@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-101-experiencing-architecture-studio-spring-2003/f2c838729f28bb0e66e80bd12a37ad15_6Concformwork3.pdf
+file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/f2c838729f28bb0e66e80bd12a37ad15_6Concformwork3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 6Concformwork3.pdf
 uid: f2c83872-9f28-bb0e-66e8-0bd12a37ad15

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The resource contains images showing Enclave relation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1b02f610061772824ea_2b_Enclaverelation.pdf
+file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1b02f610061772824ea_2b_Enclaverelation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 2b_Enclaverelation.pdf
 uid: f95f493e-c709-e1b0-2f61-0061772824ea

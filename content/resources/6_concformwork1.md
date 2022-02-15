@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The resource contains images showing Concrete formwork.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-101-experiencing-architecture-studio-spring-2003/d0357a6713b35ee9105becb0ada4196c_6_Concformwork1.pdf
+file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/d0357a6713b35ee9105becb0ada4196c_6_Concformwork1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 6_Concformwork1.pdf
 uid: d0357a67-13b3-5ee9-105b-ecb0ada4196c

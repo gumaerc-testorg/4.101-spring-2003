@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Project Work by Naomi Munro
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-101-experiencing-architecture-studio-spring-2003/c7df4ea951fff2addd1f3c87f589c7d1_NaomiMunro.pdf
+file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/c7df4ea951fff2addd1f3c87f589c7d1_NaomiMunro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: NaomiMunro.pdf
 uid: c7df4ea9-51ff-f2ad-dd1f-3c87f589c7d1

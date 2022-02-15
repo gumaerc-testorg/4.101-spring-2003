@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The resource contains images showing Space layers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-101-experiencing-architecture-studio-spring-2003/b6e494ed9049c43669afb6d44f1cd9bf_5a_Spacelayers.pdf
+file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/b6e494ed9049c43669afb6d44f1cd9bf_5a_Spacelayers.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 5a_Spacelayers.pdf
 uid: b6e494ed-9049-c436-69af-b6d44f1cd9bf
