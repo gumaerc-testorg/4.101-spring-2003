@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6f397bd6-7ed6-eaf8-3230-39cca3ba32d0
 resourcetype: Document
 title: NaomiMunro.pdf
 uid: c7df4ea9-51ff-f2ad-dd1f-3c87f589c7d1

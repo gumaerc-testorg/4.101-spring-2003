@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fda8192b-6a99-ef00-d5cf-3c66599495b8
 resourcetype: Document
 title: 6_Concformwork.pdf
 uid: fd53ea82-3eb6-3b87-d41a-ac10e90a1c47

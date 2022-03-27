@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fda8192b-6a99-ef00-d5cf-3c66599495b8
 resourcetype: Document
 title: 2c_Onlyadjacentrelation.pdf
 uid: 1af6402e-2b68-190e-fa1c-73988433a81d

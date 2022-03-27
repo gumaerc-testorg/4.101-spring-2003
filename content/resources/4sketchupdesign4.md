@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fda8192b-6a99-ef00-d5cf-3c66599495b8
 resourcetype: Document
 title: 4SketchUpdesign4.pdf
 uid: eb742167-2d1e-0868-d0fe-e68009b9fbe9

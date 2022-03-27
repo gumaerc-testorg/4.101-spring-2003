@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6f397bd6-7ed6-eaf8-3230-39cca3ba32d0
 resourcetype: Document
 title: MerrittTam.pdf
 uid: f09e792e-38d6-69b6-15f1-90ac885990e4

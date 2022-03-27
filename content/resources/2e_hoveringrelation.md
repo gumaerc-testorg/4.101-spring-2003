@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fda8192b-6a99-ef00-d5cf-3c66599495b8
 resourcetype: Document
 title: 2e_Hoveringrelation.pdf
 uid: 9d5ad4dd-f905-31fc-0a19-1f1766ffb291

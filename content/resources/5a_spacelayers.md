@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fda8192b-6a99-ef00-d5cf-3c66599495b8
 resourcetype: Document
 title: 5a_Spacelayers.pdf
 uid: b6e494ed-9049-c436-69af-b6d44f1cd9bf
