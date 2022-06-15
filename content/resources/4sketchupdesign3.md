@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-101-experiencing-architecture-studio-spring-2003/14525c7e3559c66772a1f32c629cb6fb_4SketchUpdesign3.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/14525c7e3559c66772a1f32c629cb6fb_4SketchUpdesign3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

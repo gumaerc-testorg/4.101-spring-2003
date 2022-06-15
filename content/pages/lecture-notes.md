@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ Files
 South End
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/1_southend))
+({{% resource_link 3140e2a2-a464-4e5b-aadb-7abc6783539f "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ South End
 Counterdefining relation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2a_counterdefiningrelation))
+({{% resource_link 8ec934be-7281-f94e-6ca4-be94ec55f538 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Counterdefining relation
 Enclave relation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2b_enclaverelation))
+({{% resource_link f95f493e-c709-e1b0-2f61-0061772824ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Enclave relation
 Only-adjacent relation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/2c_onlyadjacentrelation))
+({{% resource_link 1af6402e-2b68-190e-fa1c-73988433a81d "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Only-adjacent relation
 Border relation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2d_borderrelation))
+({{% resource_link df57248f-3d41-fff0-7bd7-685d8db4b21b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Border relation
 Hovering relation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/2e_hoveringrelation))
+({{% resource_link 9d5ad4dd-f905-31fc-0a19-1f1766ffb291 "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Hovering relation
 Column as structure and idea
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/3a_columnasidea))
+({{% resource_link 7419a209-672f-cf6f-72a7-c8441656a762 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Column as structure and idea
 Column as space maker
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/3b_columnasstructure))
+({{% resource_link dac3a969-070a-8442-0245-5706a107fc6b "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,10 +100,10 @@ Column as space maker
 SketchUp design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 - 2MB]({{< baseurl >}}/resources/4_sketchupdesign))  
-([PDF 2 - 2.4MB]({{< baseurl >}}/resources/4sketchupdesign2))  
-([PDF 3 - 2.1MB]({{< baseurl >}}/resources/4sketchupdesign3))  
-([PDF 4 - 2.1MB]({{< baseurl >}}/resources/4sketchupdesign4))
+({{% resource_link 76353c7f-84d0-a2a0-4746-db2029b8ff1e "PDF 1 - 2MB" %}})  
+({{% resource_link 3dd59a30-8df1-8835-7c0f-c17571043b1d "PDF 2 - 2.4MB" %}})  
+({{% resource_link 14525c7e-3559-c667-72a1-f32c629cb6fb "PDF 3 - 2.1MB" %}})  
+({{% resource_link eb742167-2d1e-0868-d0fe-e68009b9fbe9 "PDF 4 - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ SketchUp design
 Space layers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5a_spacelayers))
+({{% resource_link b6e494ed-9049-c436-69af-b6d44f1cd9bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +121,7 @@ Space layers
 Space zones
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5b_spacezones))
+({{% resource_link 70a00e84-4952-2ba3-8b72-3355ebc2e02d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Space zones
 Diagramming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3MB]({{< baseurl >}}/resources/5c_diagramming))
+({{% resource_link 48d44746-b258-b3e2-8604-66286095de6a "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,9 +139,9 @@ Diagramming
 Concrete formwork
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 - 2.3MB]({{< baseurl >}}/resources/6_concformwork1))  
-([PDF 2 - 2MB]({{< baseurl >}}/resources/6concformwork2))  
-([PDF 3 - 2.5MB]({{< baseurl >}}/resources/6concformwork3))
+({{% resource_link d0357a67-13b3-5ee9-105b-ecb0ada4196c "PDF 1 - 2.3MB" %}})  
+({{% resource_link d0c58f18-353d-96f3-201d-53e2bedd2030 "PDF 2 - 2MB" %}})  
+({{% resource_link f2c83872-9f28-bb0e-66e8-0bd12a37ad15 "PDF 3 - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
