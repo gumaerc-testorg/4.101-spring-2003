@@ -5,6 +5,7 @@ file: /courses/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2b_Enclaverelation.pdf
 uid: f95f493e-c709-e1b0-2f61-0061772824ea
 ---
 The resource contains images showing Enclave relation.
-

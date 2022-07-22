@@ -5,6 +5,7 @@ file: /courses/4-101-experiencing-architecture-studio-spring-2003/76353c7f84d0a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4_SketchUpdesign.pdf
 uid: 76353c7f-84d0-a2a0-4746-db2029b8ff1e
 ---
 The resource contains images showing SketchUp design.
-

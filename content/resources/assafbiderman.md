@@ -5,6 +5,7 @@ file: /courses/4-101-experiencing-architecture-studio-spring-2003/e712226aa7c3a9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AssafBiderman.pdf
 uid: e712226a-a7c3-a969-7299-59533fe2eaa8
 ---
 Project Work by Assaf Biderman
-

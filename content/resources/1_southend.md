@@ -5,6 +5,7 @@ file: /courses/4-101-experiencing-architecture-studio-spring-2003/3140e2a2a4644e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1_SouthEnd.pdf
 uid: 3140e2a2-a464-4e5b-aadb-7abc6783539f
 ---
 The resource contains the images of the studio of the Optimist's daughter.
-
