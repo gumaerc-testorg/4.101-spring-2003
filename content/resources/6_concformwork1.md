@@ -2,6 +2,7 @@
 content_type: resource
 description: The resource contains images showing Concrete formwork.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/d0357a6713b35ee9105becb0ada4196c_6_Concformwork1.pdf
+file_size: 1123483
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

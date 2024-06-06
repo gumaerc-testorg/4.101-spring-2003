@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/f2c838729f28bb0e66e80bd12a37ad15_6Concformwork3.pdf
+file_size: 1173416
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
