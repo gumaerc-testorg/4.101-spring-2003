@@ -2,6 +2,7 @@
 content_type: resource
 description: The resource contains images showing Only-adjacent relation.
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/1af6402e2b68190efa1c73988433a81d_2c_Onlyadjacentrelation.pdf
+file_size: 1023194
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Project Work by Merritt Tam
 file: /courses/4-101-experiencing-architecture-studio-spring-2003/f09e792e38d669b615f190ac885990e4_MerrittTam.pdf
+file_size: 376236
 file_type: application/pdf
 learning_resource_types:
 - Projects
