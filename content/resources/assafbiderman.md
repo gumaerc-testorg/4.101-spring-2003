@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Work by Assaf Biderman
-file: /courses/4-101-experiencing-architecture-studio-spring-2003/e712226aa7c3a969729959533fe2eaa8_AssafBiderman.pdf
+file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/e712226aa7c3a969729959533fe2eaa8_AssafBiderman.pdf
 file_size: 467408
 file_type: application/pdf
 learning_resource_types:
