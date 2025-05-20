@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains images showing Column as structure and idea.
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/7419a209672fcf6f72a7c8441656a762_3a_Columnasidea.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/7419a209672fcf6f72a7c8441656a762_3a_Columnasidea.pdf
 file_size: 1182512
 file_type: application/pdf
 learning_resource_types:

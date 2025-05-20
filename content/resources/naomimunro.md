@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Work by Naomi Munro
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/c7df4ea951fff2addd1f3c87f589c7d1_NaomiMunro.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/c7df4ea951fff2addd1f3c87f589c7d1_NaomiMunro.pdf
 file_size: 616976
 file_type: application/pdf
 learning_resource_types:
