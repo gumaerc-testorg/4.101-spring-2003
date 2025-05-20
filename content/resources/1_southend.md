@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains the images of the studio of the Optimist's daughter.
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/3140e2a2a4644e5baadb7abc6783539f_1_SouthEnd.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/3140e2a2a4644e5baadb7abc6783539f_1_SouthEnd.pdf
 file_size: 1596898
 file_type: application/pdf
 learning_resource_types:

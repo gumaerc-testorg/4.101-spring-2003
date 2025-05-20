@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains images showing Enclave relation.
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1b02f610061772824ea_2b_Enclaverelation.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/f95f493ec709e1b02f610061772824ea_2b_Enclaverelation.pdf
 file_size: 702445
 file_type: application/pdf
 learning_resource_types:

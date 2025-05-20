@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains images showing Border relation.
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/df57248f3d41fff07bd7685d8db4b21b_2d_Borderrelation.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/df57248f3d41fff07bd7685d8db4b21b_2d_Borderrelation.pdf
 file_size: 415890
 file_type: application/pdf
 learning_resource_types:

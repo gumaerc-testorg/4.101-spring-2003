@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains images showing Space zones.
-file: /ol-ocw-studio-app/courses/4-101-experiencing-architecture-studio-spring-2003/70a00e8449522ba38b723355ebc2e02d_5b_Spacezones.pdf
+file: /courses/4-101-experiencing-architecture-studio-spring-2003/70a00e8449522ba38b723355ebc2e02d_5b_Spacezones.pdf
 file_size: 749968
 file_type: application/pdf
 learning_resource_types:
