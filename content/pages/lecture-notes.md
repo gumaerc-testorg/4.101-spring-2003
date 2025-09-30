@@ -148,4 +148,4 @@ Concrete formwork
 
 {{< tableclose >}}
 
-All 3D images created in [SketchUp](http://www.sketchup.com/), Copyright ©2002 @Last Software, Inc. All rights reserved.
+All 3D images created in {{% resource_link "57e8aa81-8384-4998-858c-57b6287a6988" "SketchUp" %}}, Copyright ©2002 @Last Software, Inc. All rights reserved.
